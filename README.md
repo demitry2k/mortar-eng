@@ -2,7 +2,7 @@
 > **Keep in mind that the project is not finished.**
 ## Instructions
 How to build:
-1) Use Fedora OS (I used Fedora WSL under Windows) <br />
+1) Use Fedora OS (Fedora WSL under Windows also works) <br />
 2) First run this in console to install all dependencies: <br />
    `sudo dnf install git cmake tsl-sparse-map-devel g++ sdl2-devel` <br />
 4) Then clone the repository with: <br />
